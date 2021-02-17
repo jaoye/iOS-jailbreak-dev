@@ -1,1 +1,0 @@
-[UIApp openURL:[NSURL URLWithString:@"itms-apps://itunes.apple.com/cn/app/id805540183?mt=8"]]
